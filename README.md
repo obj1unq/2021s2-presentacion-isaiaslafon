@@ -1,6 +1,7 @@
 # Presentación
 
 ## Colaborador: _Isaias Lafon_
+![Yo](326ee38f-6991-476b-bef0-cbb369c49116.jpg)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
@@ -12,7 +13,7 @@ Consiste en hacer 2 simples tareas:
   - darle al botón de **Commit** para subir los cambios al repositorio.
 
 
-- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
+- [x] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
 Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
 
 - [ ] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
